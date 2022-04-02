@@ -14,3 +14,4 @@ mkdir ../www/awesome-rust
 python gen.py
 rm -rf ../www/about_0x6368616e67
 rm -rf ../www/awesome_rust
+cp static/favicon.ico ../www
