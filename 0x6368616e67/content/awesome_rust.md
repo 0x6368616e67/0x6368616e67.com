@@ -109,6 +109,12 @@ buffer 缓存
 ### [self_update](https://docs.rs/self_update/latest/self_update/)
 工程子更新，根据github信息更新到最新tag
 
+### [thiserror]()
+枚举定义error
+
+### [anyhow]()
+和thiserror配合，返回包含thiserror的Result,都是dtolnay大佬的作品
+
 
 
 
