@@ -37,20 +37,11 @@ defaultContentLanguage = "en"
   url = "/"
 
 [[menu.main]]
-  name = "Categories"
-  weight = 20
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
   name = "Archives"
   weight = 30
   identifier = "archives"
   url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 40
-  identifier = "tags"
-  url = "/tags/"
+
 [[menu.main]]
   name = "About"
   weight = 50
