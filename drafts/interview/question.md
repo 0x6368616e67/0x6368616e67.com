@@ -20,3 +20,6 @@
 Box<T>
 Rc<T>
 Arc<T>
+    
+### Rust 中Cell的作用
+内部可变机制
