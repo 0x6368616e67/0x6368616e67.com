@@ -7,6 +7,9 @@ title: "Awesome Rust"
 ### rustfmt.toml
 用于制定rust格式化的规则
 
+### build.rs
+用于预处理一些构建的前置条件，如C库，或者vergen的构建环境
+
 # 类库
 ## Console
 ### [clap](https://github.com/clap-rs/clap)
