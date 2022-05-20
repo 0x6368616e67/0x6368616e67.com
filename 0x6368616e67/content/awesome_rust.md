@@ -10,6 +10,9 @@ title: "Awesome Rust"
 ### build.rs
 用于预处理一些构建的前置条件，如C库，或者vergen的构建环境
 
+### rust-toolchain.toml
+指定rustc的版本
+
 # 类库
 ## Console
 ### [clap](https://github.com/clap-rs/clap)
