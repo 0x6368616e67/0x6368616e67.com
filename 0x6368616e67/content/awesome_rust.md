@@ -100,6 +100,9 @@ buffer 缓存
 ### [git-version](https://github.com/fusion-engineering/rust-git-version)
 获取仓库当前的git commit等相关信息作为版本号
 
+### [vergen](https://docs.rs/vergen/latest/vergen/)
+根据环境变量，自动生成构建时的环境，如git commit, rustc version, cargo version
+
 ### [rustc-version](https://github.com/djc/rustc-version-rs)
 获得当前rustc的版本
 
