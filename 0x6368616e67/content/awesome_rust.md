@@ -124,6 +124,9 @@ buffer 缓存
 ### [anyhow]()
 和thiserror配合，返回包含thiserror的Result,都是dtolnay大佬的作品
 
+### [educe]
+自动补齐系统的traits 如Clone、Copy
+
 
 
 
