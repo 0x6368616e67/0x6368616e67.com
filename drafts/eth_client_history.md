@@ -42,3 +42,7 @@
 * [rjl493456442](https://github.com/rjl493456442)
 
 来接棒
+
+主要版本参考 [go-ethereum wiki](https://github.com/ethereum/go-ethereum/wiki/Installing-Geth/_history)
+
+文档参见 [geth docs](https://geth.ethereum.org/docs)
