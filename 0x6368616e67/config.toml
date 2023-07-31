@@ -4,7 +4,7 @@
 
 baseURL = "http://0x6368616e67.com/"
 #baseURL = "http://127.0.0.1/"
-title = "0x6368616e67"
+title = "C Z(0x6368616e67)"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "cz-jane"
@@ -12,7 +12,7 @@ theme = "cz-jane"
 
 hasCJKLanguage = true     
 paginate = 5              
-copyright = "0x6368616e67"    
+copyright = "CZ(0x6368616e67)"    
 
 [RSS]
   limit=10
