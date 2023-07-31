@@ -16,7 +16,7 @@ def parse_blog(src,dst):
 	pm_divs[0].getparent().remove(pm_divs[0])
 	dst_path = os.path.abspath("../www/"+dst+"/index.html")
 	print("dst:",dst_path)
-	out_file = open(dst_path,"w")
+	out_file = open(dst_path,"wb")
 	out_file.write(html.tostring(dom))
 
 def main():
