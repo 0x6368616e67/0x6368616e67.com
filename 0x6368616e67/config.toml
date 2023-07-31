@@ -74,6 +74,7 @@ defaultContentLanguage = "en"
   [params.social] 
     a-email = "mailto:0x6368616e67@gmail.com"
     g-github = "https://github.com/0x6368616e67/"
+    c-twitter = "https://twitter.com/0x6368616e67"
 
   [params.utteranc]    
     enable = true
